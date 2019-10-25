@@ -10,6 +10,7 @@ public class Input {
         this.precision=precision;
     }
 
+
     public String[] getExpr() {
         return expr;
     }
